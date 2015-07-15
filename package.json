@@ -1,0 +1,22 @@
+{
+  "name": "metalsmith-frontmatter",
+  "version": "0.0.1",
+  "description": "set front matter of all files to global metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arve0/metalsmith-frontmatter.git"
+  },
+  "keywords": [
+    "metalsmith-plugin"
+  ],
+  "author": "Arve Seljebu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arve0/metalsmith-frontmatter/issues"
+  },
+  "homepage": "https://github.com/arve0/metalsmith-frontmatter#readme"
+}
